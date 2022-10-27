@@ -167,7 +167,7 @@ const Blog = () => {
                PingIdentity,
                Keycloa,
                Frontegg,
-               Authress and etc.
+               Authress and etc..
 
                   </p>
                </div>
