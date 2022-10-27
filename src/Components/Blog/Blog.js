@@ -88,7 +88,7 @@ const Blog = () => {
                   </div>
                   <div className="w-full">
                      <h4 className="text-lg font-semibold text-black">
-                     WHAT IS CORS ?
+                     WHAT IS CORS ??
                      </h4>
                   </div>
                </button>
