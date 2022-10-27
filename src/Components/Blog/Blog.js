@@ -32,7 +32,7 @@ const Blog = () => {
                   mb-4
                   "
                   >
-                 Some Important Question 
+                 Some Required Question 
                </h2>
               
             </div>
