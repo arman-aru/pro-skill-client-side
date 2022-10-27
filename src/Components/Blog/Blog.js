@@ -156,7 +156,7 @@ const Blog = () => {
                   <p className="text-base text-body-color leading-relaxed py-3">
                   Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more. <br /> <br />
 
-               <h1 className='font-bold'>We have other options do we have to implement authentication</h1> 
+               <h1 className='font-bold'>We have other options do We have to implement authentication</h1> 
 
 
 
